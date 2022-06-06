@@ -10,8 +10,10 @@ git remote add origin <address> creates a link between our pc and GitHubg
 git branch -M main - 
 git push -u origin main - for our first push
 add -> push -> commit
+
 CI/CD - continous integration and continous development 
-git branch 
+
+git branch - lets you create, list, rename, and delete branches
 git checkout -b dev - adds a new branch called dev
 git checkout main - switches to an existing branch
 git push --set-upstream origin dev - this allows 
